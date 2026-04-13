@@ -1,53 +1,53 @@
-# Space Day: From a Small Room to a Community — 3 Years of Building Something Real
+# Space Day：小さな部屋からコミュニティへ — 3年間の軌跡
 
-## How it started
+## はじまり
 
-In 2023, Space Day was a modest AWS-hosted gathering — 20 to 30 people in a small venue in Yurakucho. Fusic sent three people: myself, Ito-san, and Saika-san. Saika-san gave a pitch. We met a handful of companies for the first time. That was it.
+2023年、Space DayはAWS主催の小さな集まりだった。有楽町あたりの小さな会場に20〜30人。フュージックからは僕と伊藤さんとサイカさんの3人で参加して、サイカさんがピッチをした。いくつかの企業と初めて顔を合わせた。それだけだった。
 
-Then in early 2024, David Freeman from AWS asked if Fusic would take over as the hosting partner. Saika-san and I heard the pitch, looked at each other, and essentially said: "We don't fully understand what this is, but there's no reason to say no." That casual decision turned into something none of us expected.
+2024年の初め頃、AWSのDavid Freemanから「フュージックがホスティングパートナーとしてSpace Dayを引き継いでくれないか」という打診が来た。サイカさんと僕で話を聞いて、正直よくわからないけど断る理由もないし、やるか——当時のノリは本当にそんな感じだった。その軽い決断が、誰も予想しなかったものに変わっていく。
 
-## Year 1 as hosts (2024): Learning the hard way
+## 主催1年目（2024年）：手探りの始まり
 
-Saika-san led the first Fusic-hosted Space Day from planning to execution — and deserves full credit for getting it off the ground. We featured sessions from QPS, i-Space, N-Ops, and Snowflake.
+フュージック主催の初めてのSpace Dayを、企画から運営まで中心になって回してくれたのは間違いなくサイカさんだった。QPS、i-Space、N-Ops、Snowflakeのセッションを組んだ。
 
-But here's the honest truth: we had almost zero connections in the space industry. Nagano-san carried us — speaker recruitment, audience, introductions, everything. When I attended UKARENAI in Ehime later that year, I walked into a room where I recognized almost no one. I spent the event following Nagano-san around, getting introduced to people one by one. That's where I first met Mukaida-san, who now serves as an advisor.
+正直に言うと、当時の僕たちには宇宙業界のコネクションがほぼゼロだった。登壇者の調整も集客も紹介も、すべて永野さんに頼りきりだった。同じ年に愛媛のUKARENAIに参加した時、会場に入って思ったのは「本当に誰も知らない」ということ。永野さんの後ろをついて回りながら、一人ひとり紹介してもらう。そこで初めて出会ったのが、今アドバイザリーとしてお世話になっている向井田さんだった。
 
-When Saika-san left Fusic in August, Prof. Yusharon and I raised our hands to keep the space business going. In practice, I became the one driving it day to day.
+8月にサイカさんがフュージックを離れ、僕とユシャロン先生が宇宙事業を引き継いだ。実態としては、僕が日々の推進を担うことになった。
 
-## Year 2 (2025): The painful middle
+## 主催2年目（2025年）：苦しい踊り場
 
-The 2025 Space Day was tough. Attendance was low. The RSVP-to-show-up ratio was poor. Almost nothing converted into concrete business afterward. We were still treating Space Day as a one-off event — something we did because AWS expected it, not because we had a strategic vision for it.
+2025年のSpace Dayは厳しかった。参加者数は伸びず、出欠率も悪く、イベント後に具体的なビジネスにつながるケースもほとんどなかった。まだSpace Dayを単発のイベントとして捉えていた——AWSから頼まれるからやるもの、という感覚がどこかにあった。
 
-But something important was happening in the background. In July 2025, the Space Business Development Team was officially formed. Our network in the industry started growing through various engagements. And personally, I gained an invaluable learning opportunity: observing SpaceData's monthly all-hands and seeing how they think about business structure, organizational design, and — crucially — **community**.
+でも、裏側では大事なことが起きていた。2025年7月に宇宙事業開発チームが正式に発足し、業界とのネットワークが着実に広がっていった。個人的に大きかったのは、スペースデータの全体会を毎月見させてもらえたこと。事業構造、組織設計、そして**コミュニティ**という概念に対する彼らの考え方に触れられたのは、本当に貴重な経験だった。
 
-## The community concept
+## コミュニティという概念
 
-SpaceData's approach opened my eyes. They use community not as a marketing buzzword, but as an organizational principle — concentric circles of engagement from core executives to operational teams to a broader community of aligned individuals who contribute ideas, talent, and energy. Their Machinegula Lab is a concrete example of this in action.
+スペースデータのアプローチは目を開かせてくれた。彼らにとってコミュニティはマーケティング用語ではなく、組織原理そのものだった。エグゼクティブ層を中心に、実動部隊がいて、その外側に活動に共感し力を貸してくれる人たちの層がある。同心円状のエンゲージメント構造。マシンギュラボはその具体的な実践例だ。
 
-This got me thinking: the space industry is often called the "space village" — a tight-knit ecosystem where everyone eventually crosses paths. In an environment like that, community strategy isn't just nice to have. It's the most natural way to build trust, brand, and business.
+宇宙業界は「宇宙村」と呼ばれるほど狭いエコシステム。いずれ誰もが交差する世界では、コミュニティ戦略はあると便利なものではなく、信頼とブランドとビジネスを築く最も自然な方法だと気づいた。
 
-I started small. Sending Fusic's earnings reports and supplementary materials to close clients like Space Aiser and Pale Blue. Creating small conversation starters. Planting seeds. It's not glamorous work, but over time, something shifts — people start to see you not as a vendor, but as a peer. Someone they want to work with. Someone they want to visit.
+僕は小さなことから始めた。フュージックの決算短信や補足資料を、スペースアイザーやペイルブルーといった近しいお客さんに送る。ちょっとした会話のきっかけを作る。種を蒔く。地味な活動だけど、続けていくと何かが変わる。ベンダーではなく仲間として見てもらえるようになる。一緒に仕事がしたい、会いに行きたいと思ってもらえるようになる。
 
-## Year 3 (2026): The pivot
+## 主催3年目（2026年）：転換点
 
-For Space Day 2026, I made a deliberate choice: reframe the event not as a conference, but as a **community platform**. Space x Software — that tagline has been with us from the start, but this year we gave it a home.
+Space Day 2026では、意図的な選択をした。このイベントをカンファレンスではなく、**コミュニティプラットフォーム**として再定義する。宇宙×ソフトウェア——このタグラインは最初からあったけど、今年初めてそれに「場」を与えた。
 
-Three things made this year different:
+今年が違った理由は3つある。
 
-**1. We earned our own audience.** For the first time, we filled the room without relying on Nagano-san's network. Every attendee came through connections Fusic built over the past two years. Two years ago I knew almost no one at UKARENAI. This year, the room felt like home.
+**1. 自分たちの力で人を集められた。** 初めて、永野さんのネットワークに頼らず参加者を集めることができた。全員がこの2年間でフュージックが築いた関係性から来てくれた人たちだった。2年前、UKARENAIで誰も知らなかった状態から、今年はホームだと感じられる空間を作れた。
 
-**2. The program was intentionally designed.** Nagano-san proposed adding a morning hands-on workshop (originally pitched as a 2-day event — we negotiated it down to one). Four companies — Space Shift, Infostellar, Mie-Mieru-Ne, and JAOPS — ran sessions on our platform. The afternoon talks started at 3pm, the latest start time we've ever had, but that compression made everything tighter and more impactful.
+**2. プログラムを意図的に設計した。** 永野さんから午前中にハンズオンワークショップを入れましょうという提案があった（最初は2日間の話もあったが、1日に凝縮した）。スペースシフト、インフォステラ、ミエルネ、JAOPSの4社がフュージックのプラットフォーム上でセッションを行った。午後のトークは15時スタート——過去最も遅い開始時間だったが、その分だけ内容が凝縮されて、間延びのないイベントになった。
 
-The speaker lineup covered the entire space supply chain with purpose: upstream (Future Space Transport on P4SD), midstream (Fusic), downstream (SpaceData, Arc-H Space), cloud infrastructure (AWS), and even orbital services from the JAXA Space Strategy Fund — a topic none of us expected to hear about. The balance wasn't accidental, but the fact that it came together this perfectly was honestly a bit of luck.
+登壇者の構成は宇宙サプライチェーン全体を意図的にカバーした。アップストリーム（将来宇宙輸送のP4SD）、ミッドストリーム（フュージック）、ダウンストリーム（スペースデータ、アークエッジ・スペース）、クラウドインフラ（AWS）、さらにJAXA宇宙戦略基金からの軌道上サービスの話まで。バランスは狙っていたけど、ここまで完璧にまとまったのは正直運も大きかった。
 
-**3. People came to see Fusic.** This was the most meaningful shift. Companies like Pale Blue and Kratos came because they wanted to connect with us specifically. Wakata Koichi showed up. SSC's Mac Karazawa. Earthrise's Taguchi-san. The caliber of attendees reflected something real — an affinity toward Fusic as a platform, not just curiosity about the agenda.
+**3. フュージックに会いに来てくれる人が増えた。** これが一番意味のある変化だった。ペイルブルーやクラトスのように、僕たちとつながるために来てくれた企業がいた。若田光一さんが来てくれた。SSCのマック・カラザワが来てくれた。アースライズの田口さんが来てくれた。参加者の顔ぶれが示していたのは、プログラムへの関心だけではなく、フュージックというプラットフォームへの親近感だった。
 
-The networking hour was electric. If anything, it was too short. Watching people engage across the room — on a stage we designed — was genuinely one of the most rewarding moments of this journey.
+ネットワーキングの時間は本当に盛り上がった。1時間強では足りないくらいだった。自分がデザインした場の上で、みんなが会話を楽しんでいる姿を見るのは、この3年間で最も報われた瞬間の一つだったと思う。
 
-## What comes next
+## これから
 
-Reiko-san, who ran countless events during her Megazone days, called it a 120-point event. Her advice resonated: don't let the community go cold between annual events. Build smaller touchpoints — quarterly gatherings, themed meetups, even casual dinners — so that when Space Day comes around each year, it's a reunion, not a reintroduction.
+メガゾン時代に数多くのイベントを手がけてきたレイコさんが、120点のイベントだと言ってくれた。彼女のアドバイスは響くものがあった——年1回のイベントの間にコミュニティを冷やしてはいけない。四半期ごとの小さな集まり、テーマ別のイベント、カジュアルな飲み会でもいい。そうすることで、毎年のSpace Dayが「再紹介」ではなく「再会」になる。
 
-That's exactly the direction we're heading. The annual event is the anchor, but the real community lives in the spaces between. More frequent engagement. More reasons to connect. More opportunities for the people in our orbit to talk to each other — not just to us.
+まさにその方向に進めていきたい。年1回のイベントはアンカーであり続けるけど、本当のコミュニティはその間の時間に生きている。もっと頻繁なエンゲージメント。もっと多くのつながりの理由。僕たちの周りにいる人たちが、僕たちとだけでなく、お互い同士でも会話できるような機会を作っていく。
 
-Space Day started as someone else's event that we inherited on a whim. Three years later, it's become something that belongs to Fusic — and, increasingly, to the community around us. That evolution is worth protecting and growing.
+Space Dayは、もともと誰かのイベントを軽い気持ちで引き継いだところから始まった。3年後の今、それはフュージックのものになり、そしてますますフュージックの周りのコミュニティのものになりつつある。この進化を守り、育てていきたい。
